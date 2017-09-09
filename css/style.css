@@ -1,0 +1,26 @@
+body{
+  background-color: black;
+}
+
+.quote{
+  color:#fff;
+  position: absolute;
+  left:40%;
+  top:50%;
+
+  font-size: 17px;
+  font-style: italic;
+}
+
+.author{
+  margin-left: 190px;
+  font-style: normal;
+}
+
+.progressBar{
+  color:  aqua;
+  position: relative;
+  left:32%;
+  top: 50%;
+  margin-top: 310px;
+}
